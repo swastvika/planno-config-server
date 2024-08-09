@@ -1,1 +1,9 @@
-
+#Database Configuration
+spring:
+  datasource:
+    name: planno-database-dev
+    url: jdbc:mysql://localhost:3306/planno
+    username: root
+    password: Vikash@1024
+    jpa:
+      show-sql: true
