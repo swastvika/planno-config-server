@@ -5,6 +5,5 @@ spring:
     url: jdbc:mysql://localhost:3306/planno-prod
     username: root
     password: Vikash@1024
-    jpa:
-      show-sql: false
-
+  jpa:
+    show-sql: false
