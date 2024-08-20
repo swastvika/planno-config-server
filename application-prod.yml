@@ -2,7 +2,7 @@
 spring:
   datasource:
     name: planno-database-prod
-    url: jdbc:mysql://localhost:3306/planno
+    url: jdbc:mysql://localhost:3306/planno-prod
     username: root
     password: Vikash@1024
     jpa:
