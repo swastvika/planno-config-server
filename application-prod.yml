@@ -1,7 +1,7 @@
 #Database Configuration
 spring:
   datasource:
-    name: planno-database-prod
+    name: swastik-database-prod
     url: jdbc:mysql://localhost:3306/swastik-prod
     username: root
     password: Vikash@1024
