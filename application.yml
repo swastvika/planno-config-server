@@ -1,7 +1,7 @@
 #Server Configuration
 server:
   servlet:
-    context-path: /planno
+    context-path: /swastik
 
 #Database Common Configuration
 spring:
