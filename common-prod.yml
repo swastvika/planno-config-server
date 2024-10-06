@@ -1,9 +1,4 @@
 #Database Configuration
 spring:
-  datasource:
-    name: swastik-database-prod
-    url: jdbc:mysql://localhost:3306/swastik-prod
-    username: root
-    password: Vikash@1024
   jpa:
     show-sql: false
