@@ -1,2 +1,2 @@
-# planno-config-server
-Config Server for Planno App to keep all Service Configurations.
+# swastik-config-server
+Config Server for Swastik Apps to keep all micro-services Configurations.
