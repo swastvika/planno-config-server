@@ -1,0 +1,4 @@
+#Database Configuration
+spring:
+  jpa:
+    show-sql: true
