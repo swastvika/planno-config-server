@@ -1,1 +1,7 @@
-
+#Database Configuration
+spring:
+  datasource:
+    name: swastik-auth-database-prod
+    url: jdbc:mysql://localhost:3306/swastik-auth-prod
+    username: root
+    password: Vikash@1024
